@@ -1,0 +1,45 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: #3497db;
+    color: #fff;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #3498db;
+    padding: 20px 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #3498db;
+    margin: 0 20px;
+}
+
+section {
+    margin: 20px;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 50px;
+}
+
+/* Add more styles as needed */
+
